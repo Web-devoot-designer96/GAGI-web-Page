@@ -119,7 +119,8 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Fredoka One', cursive;
+/* 	font-family: 'Fredoka One', cursive; */
+	font-family: 'poppins', sans-serif;
 	font-weight: normal;
 	color: #00090c;
 	margin-top: 0px;
